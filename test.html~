@@ -3,7 +3,7 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
-	<h1>What kind of sorcery is this!</h1>
+	<h1>Hello World!</h1>
 	<img src="image.jpg"/>
 	<p>Alfonzo Luis B. Pastores 2012-20165 AB-6L</p>
 </body>
